@@ -1,2 +1,3 @@
 # Resources
-Relevant markdown files describing how to do things.
+
+Repo containing files describing how to do many things.
