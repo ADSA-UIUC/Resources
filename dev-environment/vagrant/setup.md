@@ -2,7 +2,7 @@
 
 1. Download and install [Vagrant](https://www.vagrantup.com/downloads.html).
 2. Download and install [Virtualbox](https://www.virtualbox.org/wiki/Downloads).
-3. Download the vagrant box named ```vm.box``` which can be found under the "Releases" tab of this repository.
+3. Download the vagrant box named ```vm.box``` which can be found under the "Releases" tab of the repository that contains the project description.
 4. Install [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html).
 5. Change directory to the location of the box that you downloaded
 6. Add the box to vagrant your local vagrant in your terminal
