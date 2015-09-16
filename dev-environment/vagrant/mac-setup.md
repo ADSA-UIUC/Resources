@@ -14,7 +14,7 @@
 ![Change Dir Mac](/images/dev-environment/vagrant/changedir-mac.png?raw=true)
 
 5. Add the box to vagrant your local vagrant in your terminal 
-![Add the box](/images/dev-environment/vagrant/vagrant-add.png?raw=true)
+![Add the box](/images/dev-environment/vagrant/vagrant-add-mac.png?raw=true)
 
 6. Boot the vagrant box from the directory that includes a vagrant file
 ![vagrant up](/images/dev-environment/vagrant/vagrant-up-mac.png?raw=true)
