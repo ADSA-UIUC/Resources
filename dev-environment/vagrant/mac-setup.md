@@ -1,24 +1,25 @@
 # Vagrant on Mac
 
 1. Download and install [Vagrant](https://www.vagrantup.com/downloads.html).
+![Vagrant Download for Mac](/images/dev-environment/vagrant/vagrant-mac-download.png?raw=true)
 
-![Vagrant Download for Mac](FILL IN)
 2. Download and install [Virtualbox](https://www.virtualbox.org/wiki/Downloads).
+![Virtualbox Download for Mac](/images/dev-environment/vagrant/virtualbox-mac-download.png?raw=true)
 
-![Virtualbox Download for Mac](FILL IN)
 3. Download the vagrant box you want to use
+![Releases Tab](/images/dev-environment/vagrant/github-releases-tab.png?raw=true)
+![Download](/images/dev-environment/vagrant/github-releases-download.png?raw=true)
 
-![Releases Download](FILL IN)
 4. Change directory to the location of the box that you downloaded
+![Change Dir Mac](/images/dev-environment/vagrant/changedir-mac.png?raw=true)
 
-![Change Dir Mac](FILL IN)
 5. Add the box to vagrant your local vagrant in your terminal 
-![Add the box](FILL IN)
+![Add the box](/images/dev-environment/vagrant/vagrant-add-mac.png?raw=true)
 
-6. Boot the vagrant box
-![vagrant up](FILL IN)
+6. Boot the vagrant box from the directory that includes a vagrant file
+![vagrant up](/images/dev-environment/vagrant/vagrant-up-mac.png?raw=true)
 
 7. Login to the vagrant box
-![vagrant ssh](FILL IN)
+![vagrant ssh](/images/dev-environment/vagrant/vagrant-ssh-mac.png?raw=true)
 
-This will log you in to the virtual machine and give you console access. 
+This will log you in to the virtual machine and give you console access.
