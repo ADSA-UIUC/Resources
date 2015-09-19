@@ -26,14 +26,15 @@
 8. Login to the vagrant box
 ![Windows SSH](/images/dev-environment/vagrant/putty-ssh.png?raw=true)
 
-For windows:
- - Run putty.exe
  - Connect edit the connection with
   - Hostname: 127.0.0.1
   - Port: 2222
   - Connection Type: ssh
   - Username: vagrant
   - Password: vagrant
+
+When you are logged in, you should see this:
+![Windows logged in](/images/dev-environment/vagrant/windows-login.png?raw=true)
 
 This will log you in to the virtual machine and give you console access. 
 
